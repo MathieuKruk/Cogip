@@ -1,4 +1,4 @@
-# 💼 Cogip
+# 💰 Cogip
 
 <p align="center">
 <img src="https://i1.sndcdn.com/artworks-000000737630-in8gri-t500x500.jpg" height="30%" width="15%">
